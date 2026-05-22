@@ -38,8 +38,8 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/Valesague52/Proyecto-Final---IA-.git
-cd Proyecto-Final---IA-
+git clone https://github.com/Yilmj30/Proyecto-Final-IA.git
+cd Proyecto-Final-IA-
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
