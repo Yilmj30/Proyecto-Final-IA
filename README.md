@@ -10,9 +10,8 @@
 
 | Nombre| Correo                  | Contribución                                |
 |-----------------------------------|-------------------------|---------------------------------------------|
-| Helen  Valentina Sanabria Guevara | hvsanabrig@eafit.edu.co | EDA, preprocesamiento, visualizaciones      |
-| Juan Esteban Orrego Gomez         | jeorregog1@eafit.edu.co | Baseline, LightGBM, tuning, secciones 3 y 4 |
-| Jeronimo Rodriguez Restrepo       | jrodrigur3@eafit.edu.co | LLM/SHAP/Groq, evaluación, repo, informe    |   
+| Yilmar David Murillo Jordan | ydmurilloj@eafit.edu.co   | EDA, preprocesamiento, visualizaciones      | Baseline, LightGBM, tuning, secciones 3 y 4 |
+ LLM/SHAP/Groq, evaluación, repo, informe    |   
 
 ---
 
