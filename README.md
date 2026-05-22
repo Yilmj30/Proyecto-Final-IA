@@ -10,8 +10,7 @@
 
 | Nombre| Correo                  | Contribución                                |
 |-----------------------------------|-------------------------|---------------------------------------------|
-| Yilmar David Murillo Jordan | ydmurilloj@eafit.edu.co   | EDA, preprocesamiento, visualizaciones      | Baseline, LightGBM, tuning, secciones 3 y 4 |
- LLM/SHAP/Groq, evaluación, repo, informe    |   
+| Yilmar David Murillo Jordan | ydmurilloj@eafit.edu.co   | EDA, preprocesamiento, visualizaciones      | Baseline, LightGBM, tuning, secciones 3 y 4 |LLM/SHAP/Groq, evaluación, repo, informe    |   
 
 ---
 
